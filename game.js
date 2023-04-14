@@ -49,7 +49,7 @@ function checkAnswer(currentLevel) {
 
     } else {
 
-      $("h1").text("Game Over, Press Any Key to Restart");
+      $("h1").text("Game Over,Press any key to Restart");
       
       var b = "wrong"
       playSound(b);
