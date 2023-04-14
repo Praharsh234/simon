@@ -1,5 +1,5 @@
 alert("Let me tell you about the game simon clearly first");
-alert("You have to memorize all the colors blink in a row the game becomes harder as the level goes up");
+alert("You have to memorize all the colors blinked and put them all together in a row as the level goes higher");
 var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
